@@ -1,0 +1,17 @@
+{
+    "name": "hammadj/help-icons",
+    "description": "A packagee to show help message with input fields",
+    "autoload": {
+        "psr-4": {
+            "Hammadj\\HelpIcons\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HammadJ1",
+            "email": "hammadjavaid2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
